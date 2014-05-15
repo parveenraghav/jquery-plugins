@@ -1,0 +1,4 @@
+.vBaseWrap{ width:14px; position:absolute; top:0; right:0; background:#999999; border-left: 1px solid; z-index:99;}
+.vScroll{width:14px; position:absolute; top:0; left:0; background:black; display:block;}
+.hBaseWrap{ height:14px; position:absolute; bottom:0; left:0; background:green;}
+.hScroll{height:14px; position:absolute; top:0; left:0; background:black; display:block;}
